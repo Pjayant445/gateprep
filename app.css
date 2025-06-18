@@ -1,0 +1,14 @@
+/* App.css */
+.app-container {
+  max-width: 800px;
+  margin: auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+h1 {
+  font-size: 2.5rem;
+  color: #3f51b5;
+  margin-bottom: 1.5rem;
+  font-weight: 700;
+}
